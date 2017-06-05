@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Joao_Jardim/Documents/Git/Testes/novapasta/UserManagement/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="56f0f4e07b91e9bb018a677a1b28d493e6faa820">
+        <dex dex="/Users/Joao_Jardim/Documents/Git/Testes/novapasta/UserManagement/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cdb1a7e7bfa8448f243d47306a917f0951de879e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Joao_Jardim/.android/build-cache/fed0a8aaf1dd908732c93ba154d12aa9024876c7/output/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/Joao_Jardim/Documents/Git/Testes/novapasta/UserManagement/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1d39045e22afa9172fb73aeef456a051045de78e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Joao_Jardim/.android/build-cache/8eb3fa184938359c4af2d514381adee562517965/output/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Joao_Jardim/Documents/Git/Testes/novapasta/UserManagement/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a01a523543aff50a23c1ec0813f0f773ca31caa6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Joao_Jardim/Documents/Git/Testes/novapasta/cópia de UserManagement/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Joao_Jardim/Documents/Git/Testes/novapasta/cópia de UserManagement/app/build/intermediates/pre-dexed/debug/classes-09fac4afed09f25e025672f43382b587475f9858.jar" />
+    </item>
+    <item
+        jar="/Users/Joao_Jardim/Documents/Git/Testes/novapasta/cópia de UserManagement/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Joao_Jardim/Documents/Git/Testes/novapasta/cópia de UserManagement/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-64bc9128687b9643c91ce427683f05384617e55f.jar" />
+    </item>
+    <item
+        jar="/Users/Joao_Jardim/.android/build-cache/8eb3fa184938359c4af2d514381adee562517965/output/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Joao_Jardim/Documents/Git/Testes/novapasta/UserManagement/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_663f7d7f30139aecd650f286c9a071e4589bedb5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Joao_Jardim/Documents/Git/Testes/novapasta/UserManagement/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/Joao_Jardim/Documents/Git/Testes/novapasta/UserManagement/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8a3cdb20fec23466a702567b576ae5d7933402a6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Joao_Jardim/Documents/Git/Testes/novapasta/cópia de UserManagement/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/Joao_Jardim/Documents/Git/Testes/novapasta/cópia de UserManagement/app/build/intermediates/pre-dexed/debug/classes-85faf02a24447c27d280967c8d303831a44894ac.jar" />
+    </item>
+    <item
+        jar="/Users/Joao_Jardim/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/Joao_Jardim/Documents/Git/Testes/novapasta/cópia de UserManagement/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-e494f88af9a1e5fdc1721f570910cc4741fb5dc5.jar" />
+    </item>
+
+</items>
